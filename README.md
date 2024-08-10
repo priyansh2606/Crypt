@@ -25,7 +25,4 @@ File Encryption and Decryption GUI with Python
 5. Click RESET Button to reset the input fields and status bar.
 6. You can also Click CANCEL Button during Encryption/Decryption to stop the process.
 
-### Credits
-> `EncryptionTool` class from [`nsk89`](https://github.com/nsk89) for file encryption.
-> `flaticon.com` for icon file.
-# Crypt
+
